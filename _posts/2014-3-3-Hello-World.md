@@ -1,3 +1,6 @@
+---
+title:new in elasticsearch 6
+---
 Elasticsearch and kibana 6 is almost here, in the next lines I will mark new changes.
 
 Sparse Doc values
